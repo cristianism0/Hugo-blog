@@ -101,9 +101,9 @@ menu:
       url: /tags/
       weight: 3
 
-    - identifier: categories
-      name: Categorias
-      url: /categories/
+    - identifier: archives
+      name: Arquivo
+      url: /archives/
       weight: 4
 
     - identifier: about
