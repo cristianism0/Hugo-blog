@@ -4,8 +4,6 @@ date: 2025-09-25
 layout: post
 categories: ["Filosofia", "Literatura"]
 tags: ["estudo", "literatura", "filosofia", "cinema"]
-last_modified_at: 2025-10-25
-pin: false
 math: false
 mermaid: false
 excerpt: "Análise - Nossa identidade realmente faz sentido?"
@@ -15,7 +13,6 @@ comments: false
 tail_includes: []
 ---
 # Ghost in the Shell e Blade Runner - O Absurdo da Identidade
-{:toc}
 
 ## Cyberpunk: Movimento na Arte e Estética
 

@@ -4,12 +4,10 @@ date: 2025-10-21
 layout: post
 categories: ["Filosofia", "Literatura"]
 tags: ["estudo", "literatura", "filosofia", "cinema"]
-last_modified_at: "2025-10-22"
-pin: false
 math: false
 mermaid: false
 excerpt: "O Erotismo batailliano em no Cinema e Literatura."
-description: "Até onde pode ir as paixões dos corpos? A morté é uma solução para obssessão?"
+description: "Até onde pode ir as paixões dos corpos? A morte é uma solução para obssessão?"
 toc: true
 comments: false
 tail_includes: []
