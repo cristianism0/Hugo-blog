@@ -4,8 +4,12 @@ theme: "PaperMod"
 pagination.pagerSize: 5
 
 languages:
-  pt: 
+  en:
+    languageName: "English"
+  pt:
     languageName: "Português"
+
+defaultContentLanguage: pt
 
 ignoreLogs: 'warning-goldmark-raw-html'
 
