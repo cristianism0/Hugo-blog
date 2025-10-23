@@ -3,12 +3,6 @@ title: "Cristianism0"
 theme: "PaperMod"
 pagination.pagerSize: 5
 
-languages:
-  en:
-    languageName: "English"
-  pt:
-    languageName: "Português"
-
 defaultContentLanguage: pt
 
 ignoreLogs: 'warning-goldmark-raw-html'
@@ -117,11 +111,6 @@ menu:
       url: /about/
       weight: 5
 
-taxonomies:
-  category: categories
-
-permalinks:
-  categories: /categories/:slug/
 
 markup:
   goldmark:
