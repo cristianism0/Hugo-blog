@@ -2,7 +2,6 @@
 title: Wuthering Heights e As Virgens Suicidas - O Erótico Inalcançável
 date: 2025-10-21
 layout: post
-categories: ["Filosofia", "Literatura"]
 tags: ["estudo", "literatura", "filosofia", "cinema"]
 math: false
 mermaid: false
@@ -10,7 +9,6 @@ excerpt: "O Erotismo batailliano em no Cinema e Literatura."
 description: "Até onde pode ir as paixões dos corpos? A morte é uma solução para obssessão?"
 toc: true
 comments: false
-tail_includes: []
 ---
 
 # *Wuthering Heights* e As Virgens Suicidas - O Erótico Inalcançável

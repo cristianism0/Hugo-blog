@@ -2,7 +2,6 @@
 title: "Ghost in the Shell e Blade Runner - O Absurdo da Identidade"
 date: 2025-09-25
 layout: post
-categories: ["Filosofia", "Literatura"]
 tags: ["estudo", "literatura", "filosofia", "cinema"]
 math: false
 mermaid: false
@@ -10,7 +9,6 @@ excerpt: "Análise - Nossa identidade realmente faz sentido?"
 description: "Uma análise sobre um dos temas centrais das obras: Blade Runner e Ghost in the Shell - a identidade."
 toc: true
 comments: false
-tail_includes: []
 ---
 # Ghost in the Shell e Blade Runner - O Absurdo da Identidade
 
