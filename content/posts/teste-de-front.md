@@ -1,6 +1,6 @@
 ---
-date: '{{ .Date }}'
-title: '{{ replace .File.ContentBaseName "-" " " | title }}'
+date: '2025-10-23T14:24:27-03:00'
+title: 'Teste De Front'
 tags: []
 draft: true
 author: "cristianism0"

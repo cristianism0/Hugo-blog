@@ -1,24 +1,15 @@
 baseURL: "cristianism0.github.io"
-languageCode: "pt-br"
 title: "Cristianism0"
 theme: "PaperMod"
 pagination.pagerSize: 5
 
+languages:
+  pt: 
+    languageName: "Português"
+
+ignoreLogs: 'warning-goldmark-raw-html'
+
 params:
-
-  ShowPostNavLinks: true
-  ShowBreadCrumbs: true
-  ShowToc: true
-  TocOpen: true
-  ShowCodeCopyButtons: true
-  ShowRssButtonInSectionTermList: true
-
-  math: true
-  mermaid: true
-
-  mermaid:
-    theme_light: default
-    theme_dark: forest
 
   env: production
   title: "Cristianism0"
@@ -27,11 +18,32 @@ params:
   DateFormat: "02 January 2006"
   defaultTheme: auto
   disableThemeToggle: false
+
   ShowReadingTime: true
   ShowWordCount: true
   ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowRssButtonInSectionTermList: true
+
+  UseHugoToc: true
+  TocOpen: false
+  showtoc: false
+
+  hideSummary: false
+  hidemeta: false
+  ShowRssButtonInSectionTermList: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
   comments: false
 
+  math: true
+  mermaid: true
+
+  mermaid:
+    theme_light: default
+    theme_dark: forest
 
   assets:
     disableHLJS: false
@@ -40,6 +52,11 @@ params:
     favicon32x32: "favicon/favicon-32x32.png"
     apple_touch_icon: "favicon/apple-touch-icon.png"
     safari_pinned_tab: "favicon/favicon-32x32.png"
+
+  label:
+    text: "Início"
+    icon: favicon/apple-touch-icon.png
+    iconHeight: 35
 
   profileMode:
     enabled: true
@@ -50,21 +67,25 @@ params:
     imageWidth: 120
     imageHeight: 120
 
-    socialIcons:
-    - name: github
-      title: View Source on Github
-      url: "https://github.com/adityatelange/hugo-PaperMod"
-    - name: Discord
-      title: Join discord community
-      url: "https://discord.gg/ahpmTvhVmp"
-    - name: X
-      title: Share PaperMod on X/Twitter
-      url: "https://x.com/intent/tweet/?text=Checkout%20Hugo%20PaperMod%20%E2%9C%A8%0AA%20fast,%20clean,%20responsive%20Hugo%20theme.&url=https://github.com/adityatelange/hugo-PaperMod&hashtags=Hugo,PaperMod"
-    - name: KoFi
-      title: Buy me a Ko-Fi :)
-      url: "https://ko-fi.com/adityatelange"
+    buttons:
+      - name: Posts
+        url: posts
+      - name: Tags
+        url: tags
 
-menu:
+  socialIcons:
+    - name: github
+      title: Acompanhe meu Github
+      url: "https://github.com/cristianism0"
+    - name: letterboxd
+      title: Acompanhe meu Letterboxd
+      url: "https://letterboxd.com/cristianism0/"
+
+  editPost:
+    URL: "https://github.com/cristianism0/Hugo-blog/tree/main/content"
+    Text: "Sugerir Mudanças" 
+    appendFilePath: true 
+
 menu:
   main:
     - identifier: home
