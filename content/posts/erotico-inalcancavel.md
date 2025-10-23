@@ -5,7 +5,6 @@ layout: post
 tags: ["estudo", "literatura", "filosofia", "cinema"]
 math: false
 mermaid: false
-excerpt: "O Erotismo batailliano em no Cinema e Literatura."
 description: "Até onde pode ir as paixões dos corpos? A morte é uma solução para obssessão?"
 toc: true
 comments: false
