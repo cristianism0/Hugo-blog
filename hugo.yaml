@@ -1,4 +1,4 @@
-baseURL: "cristianism0.github.io"
+baseURL: "https://cristianism0.github.io"
 title: "Cristianism0"
 theme: "PaperMod"
 pagination.pagerSize: 5
@@ -75,7 +75,7 @@ params:
     - name: github
       title: Acompanhe meu Github
       url: "https://github.com/cristianism0"
-    - name: letterboxd
+    - name: letterboxd                                                                                                                                                                                                                                                                                                
       title: Acompanhe meu Letterboxd
       url: "https://letterboxd.com/cristianism0/"
 
