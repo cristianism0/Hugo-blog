@@ -80,7 +80,7 @@ params:
       url: "https://letterboxd.com/cristianism0/"
 
   editPost:
-    URL: "https://github.com/cristianism0/Hugo-blog/tree/main/content"
+    URL: "https://github.com/cristianism0/cristianism0.github.io/tree/main/content"
     Text: "Sugerir Mudanças" 
     appendFilePath: true 
 
