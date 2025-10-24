@@ -42,7 +42,7 @@ O livro é narrado na visão de um garoto (no momento já homem) que era **obcec
 
 A trama se volta para uma **família conservadora dos anos 70**, que após abalada pelo suicídio da filha mais nova, Cecília, recai em uma espiral de fechamento e auto-destruição velada que mais tarde, ocasionará o suicídio das outras quatro irmãs. Durante esse enclausuramento, ocorre uma "conversa" entre os meninos e as irmãs Lisbon **através de música**, achei interessante deixar aqui para um panorama de como ambos enxergavam suas realidades no momento:
 
-```
+```text
 - Irmãs Lisbon | Alone Again (Naturally) – Gilbert O’Sullivan
 - Garotos      | You’ve Got a Friend – James Taylor / Carole King
 - Irmãs Lisbon | Where Do the Children Play? – Cat Stevens
@@ -154,7 +154,7 @@ Existem alguns elementos simbólicos que para mim, fazem um paralelo com a degra
 
 Agora, gostaria de falar de uma parte importante para mim, especialmente no livro, como um **devoto da música como expressão sentimental** que é a comunicação dos garotos com as irmãs utilizando músicas. Apenas citei a presença desse momento na revisitação e gostaria de aprofundar mais nessa seção.
 Resgatando novamente as músicas:
-```
+```text
 - Irmãs Lisbon | Alone Again (Naturally) – Gilbert O’Sullivan
 - Garotos      | You’ve Got a Friend – James Taylor / Carole King
 - Irmãs Lisbon | Where Do the Children Play? – Cat Stevens
