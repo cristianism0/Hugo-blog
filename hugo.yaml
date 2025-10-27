@@ -11,7 +11,7 @@ params:
 
   env: production
   title: "Cristianism0"
-  description: "teste"
+  description: "Blog Pessoal"
   author: "cristianism0"
   DateFormat: "02 January 2006"
   defaultTheme: auto

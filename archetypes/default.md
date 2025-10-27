@@ -20,10 +20,4 @@ editPost:
     URL: "https://github.com/cristianism0/Hugo-blog/tree/main/content"
     Text: "Sugerir Mudanças" 
     appendFilePath: true 
-cover:
-    image: 
-    alt: 
-    caption: 
-    relative: 
-    hidden: 
 ---
