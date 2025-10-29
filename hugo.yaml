@@ -1,4 +1,4 @@
-baseURL: "https://cristianism0.github.io"
+baseURL: "https://cristianism0.gitlab.io"
 title: "Cristianism0"
 theme: "PaperMod"
 pagination.pagerSize: 5
@@ -34,9 +34,6 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-
-  math: true
-  mermaid: true
 
   mermaid:
     theme_light: default
