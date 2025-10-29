@@ -31,7 +31,6 @@ params:
 
   hideSummary: false
   hidemeta: false
-  ShowRssButtonInSectionTermList: true
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
